@@ -9,7 +9,7 @@
 ## Project Screenshot
 
 - This is the Project Screenshot of the Home page
- <img src="Capture.PNG">
+ <img src="app\static\photos\Capture.PNG">
 
 ## Live-Link
  - You can view the project on your browser using this livelink. `https://eugenek-pitch.herokuapp.com/`
