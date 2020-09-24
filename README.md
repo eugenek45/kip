@@ -12,7 +12,7 @@
 ![Flask-Blog-App](app\static\photos\Capture.PNG)
 
 ## Live-Link
- - You can view the project on your browser using this livelink. `https://simkim.herokuapp.com/`
+ - You can view the project on your browser using this livelink. `https://eugenek-pitch.herokuapp.com/`
  
 ## BDD
 
