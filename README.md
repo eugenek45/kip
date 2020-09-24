@@ -47,7 +47,7 @@
 - Use the command `git clone` to clone the aplication at `https://github.com/eugenek45/kip`.
 - After cloning navigate to the project.
 - Run `pip install` to install all the dependencies
-- Now run the project using your terminal with the command `python3.6 app.py`
+- Now run the project using your terminal with the command `./start.sh`
 
 ## Technologies Used
 
