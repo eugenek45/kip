@@ -9,7 +9,7 @@
 ## Project Screenshot
 
 - This is the Project Screenshot of the Home page
-![Flask-Blog-App](app\static\photos\Capture.PNG)
+ <img src="Capture.PNG">
 
 ## Live-Link
  - You can view the project on your browser using this livelink. `https://eugenek-pitch.herokuapp.com/`
