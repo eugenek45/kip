@@ -1,6 +1,6 @@
 :satisfied:
 
-# Flask-Pitch
+# Flask-Pitch : An amazing project
 
 ## Description
 
